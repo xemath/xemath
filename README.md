@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xemath (Carlos Castro)
-- 👀 I’m interested in anime, literature, tv shows, motorcycles and gym and off course programming
+- 👀 I’m interested in anime, literature, tv shows, motorcycles,gym and off course programming
 - 🌱 I’m currently trying to master css
 - 💞️ I’m looking to collaborate on javascript/html/css/node js/bootstrap projects
 - 📫 if you want to reach me send me a message to carlosfernandocastroposada@gmail.com
