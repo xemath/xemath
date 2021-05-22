@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xemath (Carlos Castro)
 - 👀 I’m interested in anime, literature, tv shows, motorcycles, gym and of course programming
-- 🌱 I’m currently trying to master css
+- 🌱 I’m currently trying to master MERN stack
 - 💞️ I’m looking to collaborate on javascript/html/css/node/express/mongdb/mysql/bootstrap projects
 - 📫 if you want to reach me send me a message to carlosfernandocastroposada@gmail.com
 
