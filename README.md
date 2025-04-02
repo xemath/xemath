@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xemath (Carlos Castro) looking for django projects to work, with javascript xp
-- located at medellin city.
+- Located at Medellin city.
 
 <!---
 xemath/xemath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
