@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xemath (Carlos Castro) looking for django projects to work, with javascript xp
+- 👋 Hi, I’m @xemath (Carlos Castro) looking for some python-django projects to work, with javascript xp
 - Located at Medellin city.
 
 <!---
